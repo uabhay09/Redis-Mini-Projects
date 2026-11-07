@@ -20,8 +20,8 @@ here we'll see
 
 4.Pub/Sub
 
-5.OTP and Time To Live
+5.OTP and Time To Live \n
 
 6. Bull MQ infrastructure
-7. 
+
 
